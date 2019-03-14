@@ -1,3 +1,12 @@
+# Appchan X fixes for Chrome
+To add this to chrome, do the following:
+  - Clone repo
+  - Open Chrome Extensions window
+  - Turn on developer mode
+  - Drag folder into Chrome's extensions window
+Alternately, a packaged CRX is available in releases.
+
+
 # Get Appchan X [HERE](http://zixaphir.github.io/appchan-x/).
 
 1. Make sure both your **browser** and **Appchan X** are up to date.
