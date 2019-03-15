@@ -3,7 +3,7 @@ To add this to chrome, do the following:
   - Clone repo
   - Open Chrome Extensions window
   - Turn on developer mode
-  - Drag folder into Chrome's extensions window
+  - Drag cloned folder into Chrome's extensions window
 Alternately, a packaged CRX is available in releases.
 
 
